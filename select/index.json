@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "零 -ZERO-",
+  "base_artist": "Masaharu Fukuyama",
+  "createdAt": "2026-02-13T10:26:14.346958Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "零 -ZERO-",
+      "artist": "福山雅治",
+      "has_synced": true,
+      "path": "select/01_零_-ZERO-_福山雅治.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "零",
+      "artist": "陳慧琳",
+      "has_synced": true,
+      "path": "select/02_零_陳慧琳.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "零 -ZERO-",
+      "artist": "Masaharu Fukuyama",
+      "has_synced": true,
+      "path": "select/03_零_-ZERO-_Masaharu_Fukuyama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "零 -ZERO- - Zero",
+      "artist": "Masaharu Fukuyama",
+      "has_synced": true,
+      "path": "select/04_零_-ZERO-_-_Zero_Masaharu_Fukuyama.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "零",
+      "artist": "Alan Kuo",
+      "has_synced": true,
+      "path": "select/05_零_Alan_Kuo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "零",
+      "artist": "Serrini",
+      "has_synced": true,
+      "path": "select/06_零_Serrini.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "零",
+      "artist": "柯有倫",
+      "has_synced": true,
+      "path": "select/07_零_柯有倫.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "零",
+      "artist": "Alan Kuo",
+      "has_synced": false,
+      "path": "select/08_零_Alan_Kuo.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "零 -ZERO-",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_01_零_-ZERO-_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "零 -ZERO-",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_02_零_-ZERO-_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "零 -ZERO-",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_03_零_-ZERO-_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "零 -ZERO-",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_04_零_-ZERO-_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "零-ZERO-",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_05_零-ZERO-_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "零 -ZERO-",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_06_零_-ZERO-_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "零ーZEROー",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_07_零ーZEROー_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "零 -ZERO-",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_08_零_-ZERO-_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "零 -ZERO-",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_09_零_-ZERO-_福山_雅治.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "零 -ZERO-",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_10_零_-ZERO-_福山_雅治.txt"
+    }
+  ]
+}
